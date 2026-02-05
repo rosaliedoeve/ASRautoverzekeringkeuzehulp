@@ -13,12 +13,6 @@ const insuranceData = [
         waAllrisk: true
       },
       {
-        name: "Schade aan jouw auto",
-        wa: false,
-        waBeperkt: false,
-        waAllrisk: true
-      },
-      {
         name: "Diefstal jouw auto",
         wa: false,
         waBeperkt: true,
@@ -34,6 +28,12 @@ const insuranceData = [
         name: "Ruitschade zonder eigen risico",
         wa: false,
         waBeperkt: true,
+        waAllrisk: true
+      },
+      {
+        name: "Schade aan jouw auto",
+        wa: false,
+        waBeperkt: false,
         waAllrisk: true
       },
       {
